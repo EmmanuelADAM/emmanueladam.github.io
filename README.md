@@ -1,3 +1,24 @@
+---
+title: "Programmer de l'IA et des agents en Java & Python "
+authors:
+    - Emmanuel ADAM
+categories:
+    - education
+date: 2022-03-21 15:30
+description: "codes sources en Java et Python, supports aux cours en intelligence artificielle et multiagent, et en programmation objet"
+license: default
+tags:
+    - IA
+    - agent
+    - java
+    - python
+    - Intelligence Artificielle
+    - systèmes multi-agent
+    - réseaux de neurones
+    - MCTS
+    - Q-Learning
+---
+
 # Supports de cours
 ----
 

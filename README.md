@@ -1,3 +1,5 @@
+<meta name="description" content="Supports en Java et Python pour les cours d'intelligence artificielle et d'intelligence artificielle répartie (multi-agents). Des codes complets sur la recherche de solution (informée, non informée, Q-Learning, par voisinage), des réseaux de neurones, des exemples de logique floue. Des codes également pour les jeux (MCTS) sont téléchargeables." />
+
 # Supports de cours
 ----
 
